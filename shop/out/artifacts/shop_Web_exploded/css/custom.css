@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+
+	
+*{
+	 margin: 0px;
+     padding: 0px;
+}
+			
+html, body {
+     height: 100%;
+}
+			
+.footer {
+	 margin-top: -50px;
+	 height: 50px;
+	 background-color: #eee;
+	 z-index: 9999;
+}
+			
+.cart {
+	 min-height: 100%;
+	 padding-bottom: 0px;
+ }
+		
+.comments {
+	 min-height: 100%;
+	 padding-bottom: 50px;
+ }	
+ 
+.index {
+	 min-height: 100%;
+	 padding-bottom: 50px;
+ }	
+ 
+.login {
+	 min-height: 100%;
+	 padding-bottom: 50px;
+ }	
+ 
+ 
+.productContent{
+	min-height: 100%;
+	padding-bottom: 50px;
+}
+
+.productList{
+	min-height: 100%;
+	padding-bottom: 50px;
+}
+
+.register{
+	min-height: 100%;
+	padding-bottom: 50px;
+}
